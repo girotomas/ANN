@@ -1,0 +1,1 @@
+["normal", "batch normalization", "dropout 0.5", "dropout 0.25", "kernel regularizer l1", "kernel regularizer l2", "bias regularizer l1", "bias regularizer l2"]
